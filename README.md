@@ -16,4 +16,3 @@ Scripts for Crema
   - `monthly_report.rb` 업체들의 타겟 발송량과 광고비, 전환율, ROAS 추출
 - etc - 기타
   - `send_sms.rb` 단체 문자 메시지 발송
-<script>alert("ss");</script>
